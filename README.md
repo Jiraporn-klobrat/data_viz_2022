@@ -6,9 +6,10 @@ Basic Programming for Data Science and Data Visualization: จิราพร �
 
 Present
 
-เกี่ยวกับ Data ที่ใช้ทั้ง 3 และ จุดมุ่งหมายที่สร้าง dashboard
-Preprocessing (Colab Notebook)
-Dashboard (Google Data Studio)
+* เกี่ยวกับ Data ที่ใช้ทั้ง 3 และ จุดมุ่งหมายที่สร้าง dashboard
+* Preprocessing (Colab Notebook)
+* Dashboard (Google Data Studio)
+
 เริ่มพรีเซ็นต์ 25 มีค 30 มีค 1 เมษา
 
 # สอบ Final อาทิตย์สอบ
