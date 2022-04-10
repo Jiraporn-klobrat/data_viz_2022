@@ -19,4 +19,6 @@ Present
   * [Drive](https://drive.google.com/drive/u/0/folders/1J7s1IcWgCRD_iJNcVjT7UT0lmFhgRPj4)
 
 # สอบ Final อาทิตย์สอบ
-ให้โจทย์ ศุกร์ที่ 8 เมษา ส่งงานก่อนวันจันทร์ที่ 11 เมษา
+ให้โจทย์ ศุกร์ที่ 8 เมษา ส่งไม่เกิน 23.59 วันจันทร์ที่ 11 เมษายน 2565
+  * [Final Exam กลุ่ม pioned](https://github.com/Jiraporn-klobrat/data_viz_2022/blob/main/Final_Exam.ipynb)
+  * [Dashboard](https://datastudio.google.com/u/1/reporting/b1d08415-72b7-40f4-92a7-e728a7fd1f93/page/jgDqC)
